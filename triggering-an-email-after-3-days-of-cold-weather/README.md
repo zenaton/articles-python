@@ -14,6 +14,6 @@ This is the full implementation for the Python marketing automation example intr
 To make this example usable in a real-world production environment, we could:
 
 - Use (lat, long) boxes to pinpoint users in a specific area, not a city
-- Add A/B testing in the worklow to increase conversion rate
+- Plug an email service provider like [Amazon SES](https://aws.amazon.com/en/ses/), [SendGrid](https://sendgrid.com/)...
 
 Feel free to submit a PR if you extended this example!
