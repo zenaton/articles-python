@@ -7,7 +7,7 @@ This is the full implementation for the Python marketing automation example intr
 
 - A [Zenaton](https://www.zenaton.com/) account, API id and API key 
 - An [OpenWeatherMap](https://openweathermap.org/api) API key
-- A [Gmail](https://mailchimp.com/) account
+- A [Gmail](https://www.google.com/gmail/) account
 
 ## Going further
 
